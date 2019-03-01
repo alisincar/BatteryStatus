@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Batarya Analiz</string>
+    <string name="charging">Charging</string>
+    <string name="connection">Connection</string>
+    <string name="notification_event_info_days">gün</string>
+    <string name="notification_event_info_hours">sa</string>
+    <string name="notification_event_info_minutes">dk</string>
+    <string name="batarya_analiz">Batarya Analiz</string>
+</resources>
